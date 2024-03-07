@@ -176,6 +176,13 @@ const songs = [
         poster:"/image/20.jpeg"
          
     },
+    {
+        id:1,
+        songName:`Thodi dede Mujhe<br>
+        <div class="subtitle">Arjit</div>`,
+        poster:"/image/01.jpeg"
+     
+    },
 
 ];
 
